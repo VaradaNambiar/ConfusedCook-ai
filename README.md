@@ -13,7 +13,7 @@ ConfusedCook-ai is an intelligent recipe assistant app that helps users discover
 Before running the app locally, make sure you have the following installed:
 
 - [Git](https://git-scm.com/downloads)
-- [Python 3.8+](https://www.python.org/downloads/) (if this is a Python project)
+- [Python 3.8+](https://www.python.org/downloads/)
 
 ## Getting Started
 
@@ -35,16 +35,16 @@ Before running the app locally, make sure you have the following installed:
 
 3. **Set up environment variables**
 
-  Create a .env file with ```GROQ_API_KEY=<your_key>``` in it
+   Create a .env file with ```GROQ_API_KEY=<your_key>``` in it
 
 4. **Run the app locally**
    ```bash
-   python manage.py runserver
+   python ui\flask_server.py runserver
    ```
 
 5. **Open the app in your browser**
 
-   Visit [http://localhost:3000](http://localhost:3000) or [http://localhost:5000](http://localhost:5000), depending on where falsk server sets it up. 
+   Visit [http://localhost:3000](http://localhost:3000) or [http://localhost:5000](http://localhost:5000), depending on where falsk server sets it up (check the details in your terminal).
 
 
 ## Contributing
