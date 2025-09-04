@@ -1,6 +1,7 @@
 # ConfusedCook-ai
 
 ConfusedCook-ai is an intelligent recipe assistant app that helps users discover, generate, and manage recipes using AI.
+![sneak-peak of ui](images/ui_ex.png)
 
 ## Features
 
@@ -58,4 +59,5 @@ This project is licensed under the MIT License.
 ---
 
 If you have questions, feel free to open an issue or reach out to me.
+
 
